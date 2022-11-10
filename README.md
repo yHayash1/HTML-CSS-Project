@@ -4,4 +4,4 @@ PORTUGÊS: Este é meu primeiro projeto baseado em html e css, e foi criado com 
 
 ENGLISH: Please download all images and reset.css for better functioning and website dynamics.
 
-PORTUGUÊS: Por favor, baixe todas as imagens e o reset.css para um melhor funcionamento e dinamica dos sites.
+PORTUGUÊS: Por favor, baixe todas as imagens e o reset.css para um melhor funcionamento e dinâmica dos sites.
